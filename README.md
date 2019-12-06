@@ -1,2 +1,0 @@
-# ChildrenRenderProps
-Created with CodeSandbox
