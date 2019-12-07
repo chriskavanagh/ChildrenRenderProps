@@ -1,7 +1,7 @@
 import React from "react";
 import CurrentMouseLoc from "./CurrentMouseLoc";
 
-const MouseTracker = ({ x, y }) => {
+const MouseTracker = () => {
   return (
     <CurrentMouseLoc>
       {coords => {
